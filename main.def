@@ -1,0 +1,11 @@
+LIBRARY MyAlgo.dll
+
+EXPORTS
+    Algo1 = _Z5Algo1tttiPiS_@24
+    Algo2 = _Z5Algo2tttiPiS_@24
+    Algo3 = _Z5Algo3tttiPiS_@24
+    Algo4 = _Z5Algo4tttiPiS_@24
+    Algo5 = _Z5Algo5tttiPiS_@24
+    Algo6 = _Z5Algo6tttiPiS_@24
+    Algo7 = _Z5Algo7tttiPiS_@24
+
