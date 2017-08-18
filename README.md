@@ -1,8 +1,7 @@
 # robot-projesi
 
 ibrahim Telman</br>
-030113005</br>
-Robot Teknolojileri</br>
+
 Proje: PID çizgi izleyen robot</br>
 
 <hr>
